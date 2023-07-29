@@ -1,0 +1,972 @@
+.mycontainer{
+    width: 100%;
+    height: 100%; 
+    background: white;
+    display: block;
+    left: 0%;
+    right: 0%;
+
+}
+.head1{
+    width: 100%;
+    height: 90px;
+    position: relative;
+    border-bottom: 0.3px solid rgba(0, 0, 0, 0.25);
+    background: #FFF;
+}
+.Image77{
+    width: 77px; height: 62px; left: 7%; top: 6%; position: absolute;
+}
+.head1image{
+    width: 120px; height: 56px; left:9%; top: 8%; position: absolute;
+}
+.Logo{
+    display: inline-block;
+    width: 123px; height: 59px; left:32%; top: 1%; position: absolute;
+}
+.Euphoria{
+    left:8%; top: 6%; position: absolute;
+}
+.Vectorline{
+    width: 30.23px; height: 0px; left:8%; top: 65%; position: absolute; border: 0.21px #913BDB solid;
+}
+.Groupline{
+    width: 59.29px; height: 8.19px; left:80%; top: 75%; position: absolute;
+}
+.Vectorline2{
+    width: 62px; height: 0px; left:80%; top: 70%; position: absolute; border: 0.21px #913BDB solid;
+}
+.Rectanglesearch{
+    display: inline-block;
+    width: 25%; height: 40px; left: 50%; top: 20%; position: relative; border-radius: 42px; border: 0.25px #EF3C8B solid;
+}
+.Searchbox{
+    display: inline-block;
+    width: 14.59px; height: 14.59px; left: 5%; top: 30%; position: absolute;
+}
+.SearchForProducts{
+    left: 10%; top:30%; position: absolute; color: rgba(0, 0, 0, 0.60); font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+}
+.Group4{
+    width:5%;height: 20px; left: 77%; top:30%; position: absolute;
+}
+.Account{
+    left: 45%; top: 8%; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
+.VectorAccount{
+    width: 18px; height: 20px; left: 5%; top: 1%; position: absolute;
+}
+.Rectangle3-1{
+    display: inline-block;
+    width: 8%; height: 40px; left: 88%; top: 20%;background: #F40F6F; border-radius: 42px; border: 0.50px #F40F6F solid;
+    position: absolute;
+}
+.Group1{
+    height: 20px;
+    position: absolute;
+    top: 10%;
+    width: 7%;
+    left: 88%; top: 20%;
+}
+.Cart0{
+    left: 40%; top: 50%; position: absolute; color: white; font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+    display: inline-block;
+}
+.VectorCart{
+    height: 20px; left: 15% ;top: 40%; position: absolute;
+    display: inline-block;
+  }
+.Line1{
+    width: 22px; height: 0px; left: 85%; top: 30%; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px rgba(0, 0, 0, 0.60) solid;
+}
+.head2{
+    width: 100%;
+    height: 44px;
+    position: relative;
+    border-bottom: 0.3px solid rgba(0, 0, 0, 0.25);
+    display: block;
+}
+.Group9{
+    width: 98px; height: 28px; left: 88%; top: 20%; position: absolute;
+}
+.Rectangle7{
+    width: 98px; height: 28px; left: 0%; top: 0%; position: absolute; background: #913BDB; border-radius: 42px;
+}
+.Campaign{
+    left: 20%; top: 20%; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
+.Group10{
+    width: 105px; height: 28px; left: 78%; top: 20%; position: absolute;
+}
+.Rectangle8{
+    width: 105px; height: 28px; left: 0%; top: 0%; position: absolute; background: #FF87A6; border-radius: 42px;
+}
+.SellerPicks{
+left: 20%; top: 20%; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
+.Group13-1{
+    width: 77px; height: 28px; left: 70%; top: 20%; position: absolute;
+}
+.Rectangle9{
+    width: 77px; height: 28px; left: 0%; top: 0%; position: absolute; background: #471D6B; border-radius: 42px;
+}
+.Offers{
+left: 30%; top: 20%; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
+.Rectangle3-2{
+    width: 100%; height: 134px; left: 0px; top: 0px; position: absolute; border-bottom: 0.15px rgba(0, 0, 0, 0.25) solid;
+}
+.Categoryrectangle{
+    width: 15%;
+    height: 100%;
+    color: #471D6B;
+    left:7%;
+    position: absolute; background: #F5CCDC;
+    display: inline-block;
+}
+.Category{
+    color: #471D6B;
+font-family: Inter;
+font-size: 12px;
+left:20%;
+top:30%;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+position:absolute;
+display: inline-block;
+word-wrap: break-word
+}
+.Option1{
+    height: 12px;
+    width: 14px;
+    top:30%;
+    left:10%;
+    position:absolute;
+
+    display: inline-block;
+}
+.Option2{
+    height:6px ;
+    width: 13px;
+    top:40%;
+    left:80%;
+    position:absolute;
+    display: inline-block;
+
+}
+.head3{
+    width: 100%;
+    height:160px;
+    left: 0%; 
+    position: relative;
+display: block;
+    
+}
+.head3background{
+    opacity: 0.3;
+    background: linear-gradient(0deg, #FFF5F7 0%, #FFFEFE 100%);
+}
+.Healthcarebeauty{
+    display: inline-block;
+    width: 15%;
+    height: 15px;
+    left: 7%;
+    margin-top:3%;
+    position: relative;
+}
+.Healthcare{
+display: inline-block;
+color: #000;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+position: relative;
+}
+.Skincare{
+color: rgba(0, 0, 0, 0.60);
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+position: relative;
+display: inline-block;
+opacity: 0.800000011920929;
+line-height: normal;
+letter-spacing: -0.12px;
+}
+.SkinCareProducts{
+    display: inline-block;
+    width: 25%;
+    left: 7%;
+    margin-top: 5%;
+    height: 40px;
+    position: absolute;
+    color: #000;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    opacity: 1;
+}
+.Vector6{
+    display: inline-block;
+    width: 62px; height: 58px; left: 25%;top: 50%; position: absolute;
+}
+
+.Vector10{
+    display: inline-block;
+    width: 43px; height: 42px; left: 71%; top: 70%; position: absolute;
+}
+.Group15{
+    display: inline-block;
+    width: 26px;
+    height: 40px;
+    left: 42%;
+    top: 60%;
+    margin-right: 8.87px;
+    position: absolute;
+
+}
+.Group19{
+    display: inline-block;
+    width: 16.90px; height: 26px; left: 53%; top: 15%; position: absolute;
+}
+.Group20{
+    display: inline-block;
+  width: 42px; height: 42px; left: 53%; top: 70%; position: absolute;
+}
+.Group22{
+    display: inline-block;
+    width: 47px; height: 47px; left:94%;top:2%; position: absolute;
+}
+.Group21{
+    display: inline-block;
+    width: 30px; height: 24.23px; left: 60%; top: 1%; position: absolute;
+    
+}
+.Vector7{
+    display: inline-block;
+    width: 44px; height: 40px; left: 30%; top: 4%; position: absolute; 
+}
+.Vector4{
+    display: inline-block;
+    width: 59px; height: 25px; left: 5%; top: 80%; position: absolute; 
+
+}
+.Vector11{
+    display: inline-block;
+    width: 79px; height: 73px; left: 80%; top: 20%; position: absolute; 
+}
+.Group12{
+    display: inline-block;
+    width: 49px; height: 49px; left:20%; top:10%; position: absolute;
+}
+.Vector12{
+    display: inline-block;
+    width: 54px; height: 60px; left: 94%; top:70%; position: absolute; transform: rotate(-26.63deg); transform-origin: 0 0;
+}
+.Vector3{
+    display: inline-block;
+    width: 43.23px; height: 48.03px; left: 0%; top: 7%; position: absolute; transform: rotate(-26.63deg); transform-origin: 0 0; 
+}
+.Group169{
+    display: inline-block;
+    width: 52px; height: 57.03px; left: 71%; top: 0%; position: absolute;
+}
+.Group170{
+    display: inline-block;
+  width: 30.09px; height: 33px; left: 11%; top: 65%; position: absolute; 
+}
+.Vector8{
+    display: inline-block;
+   width: 58px; height: 55px; left: 41%; top: 12%; position: absolute; transform: rotate(-26.31deg); transform-origin: 0 0;
+}
+.Vector5{
+    display: inline-block;
+width: 28.95px; height: 27.45px; left: 15%; top: 80%; position: absolute; transform: rotate(-26.31deg); transform-origin: 0 0;
+}
+.Vector9{
+    display: inline-block;
+width: 71.22px; height: 67.54px; left: 64%; top: 40%; position: absolute; transform: rotate(-26.31deg); transform-origin: 0 0;
+
+}
+.Group13{
+    display: inline-block;
+    width: 43.61px; height: 45.69px; left: 24%; top: 2%; position: absolute;
+}
+.Group14{
+    display: inline-block;
+   width: 70px; height: 70.01px; left: 30%; top: 56%; position: absolute;
+}
+
+.mysection{
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: inline-block;
+}
+.mysidesection{
+    width:69%;
+    float: right;
+    position: relative; 
+    margin-top: 2%; 
+    margin-right: 1%;
+
+}
+.sortsection{
+    margin-left: 86%;
+    position: relative;
+    margin-bottom: 5%;
+    margin-top: 3%;
+
+}
+.rowdesign{
+    display: block;
+}
+.rectanglesort{
+    width: 136px;
+
+    display: flex;
+height: 40px;
+flex-shrink: 0;
+border-radius: 4px;
+border: 0.5px solid #EF3C8B;
+background: #FFF;
+margin:0% 10px 2% 2%;
+}
+.sortbox{
+width: 130px;
+display: flex;
+height: 40px;
+margin-top: 3%;
+margin-left: 5%;
+    
+}
+.latest{
+margin-left: 5%;
+}
+.sortlogo{
+    width: 8px;
+height: 5px;
+stroke-width: 1.5px;
+stroke: #471D6B;
+margin: 8% 2% 2% 10%;
+
+}
+.rowdesign2{
+    display: flex;
+    margin-bottom: 8%;
+
+}
+.productrectangle{
+    display:inline-block;
+    position: relative;
+width: 100%;
+height: auto;
+border-radius: 8px;
+border: 0.5px solid #FF87A6;
+background: #FFF;
+margin: 10px;
+}
+.imagebox{
+width: 95%;
+display: inline-block;
+margin: 2.5% 2.5% 2.5% 2.5%;
+}
+.salebackground2{
+    position: absolute;   
+}
+.salebackground{
+position: absolute;
+margin: 9% 0% 0% 5%;
+color:white;
+
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.14px;
+transform: rotate(-47.157deg);
+}
+.producttitle{
+    color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 137.5% */
+letter-spacing: -0.16px;
+margin: 2.5% 2.5% 2.5% 2.5%;
+}
+.star{
+    width: 100%;
+    display: inline-block;
+    margin: 0% 2.5% 2.5% 2.5%;
+}
+.starnumber{
+    margin-left: 3%;
+    color: #000;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -0.14px;
+}
+.pricesection{
+    display: flex;
+    margin: 0% 2.5% 2.5% 2%;
+}
+.actualprice{
+    display:inline-block;
+    position: relative;
+    color: #000;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: -0.72px;
+margin-right: 2%;
+}
+.takaactual{
+    margin-bottom: 8%;
+}
+.previousprice{
+    display:inline-block;
+    position: relative;
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.56px;
+    opacity: 0.3;
+
+}
+.takaprevious{
+    padding: 0% 0% 10% 0%;
+}
+.lineprevious{
+    position: absolute;
+    margin-top: 20%;
+}
+.pricepercent{
+position: relative;
+color: #000;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -0.48px;
+padding-left: 5%;
+padding-top: 1.5%;
+}
+.ordersection{
+    display: flex;
+}
+.countbox{
+    float: left;
+    display: flex;
+    width: 40%;
+height: 36px;
+border-radius: 4px;
+border: 1px solid #F40F6F;
+background: #FFF;
+margin: 0% 22% 2% 2.5%;
+padding: 2% 2% 2% 2%;
+position: relative;
+
+justify-content: center;
+align-items: center;
+
+}
+.minus{
+    display: inline-block;
+    width: 12%;
+    height: 10%;
+    position:relative;
+    
+    justify-content: center;
+    align-items: center;
+    margin: 8% 5% 5% 5%;
+    
+
+}
+.line{
+    display: inline-block;
+    position:relative;
+    margin: 5% 5% 5% 5%;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.countnumber{
+    margin-top: 12%;
+
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.pluscount{
+    display: inline-block;
+    position:absolute;
+    position:relative;
+    margin: 5% 5% 5% 5%;
+
+}
+.addtocartbox{
+    position: relative;
+float: right;
+width: 30%;
+height: 36px;
+margin: 0% 2% 2% 2%;
+border-radius: 4px;
+background: #FFBFCD;
+display: flex;
+}
+.bag{
+    width: 100%;
+    height: 80%;
+    padding: 5% 0% 4% 0%;
+    float: left;
+    margin-left: 0%;
+}
+.add{
+    padding: 7% 20% 4% 0%;
+    width: 100%;
+    height: 80%;
+    color: #F40F6F;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.myaside{
+    width: 24%;
+    float: left;
+    vertical-align: middle;
+    position: relative;
+    margin-left:5%;
+    margin-top: 5%;
+    margin-right: 1%;
+}
+.Categoryformat{
+    width:70%;
+    height: auto;
+    left:9%;
+    position: relative;
+    display: inline-block;
+    padding: 0px 0px 20px 0px;
+   
+}
+
+.plus{
+    float: right;
+
+}
+.Categoryline{
+    width: 100%;
+    padding: 0% 0% 2% 0%;
+
+}
+.rowcategory{
+    width: 100%;
+    height: 16px;
+    margin: 10px;
+}
+.rowvector{
+    width: 13px; height: 12px; position: absolute;padding-top: 20%;
+}
+.ellipse1{
+    width: 16px; height: 16px; position: absolute;background: #F40F6F; border-radius: 9999px;
+}
+.ellipse2{
+    width: 16px; height: 16px; position: absolute; border-radius: 9999px; border: 0.50px rgba(0, 0, 0, 0.60) solid;
+}
+.rowname{
+    width:100%;height: 17px;margin-left: 10%; position: absolute; color: rgba(0, 0, 0, 0.60); font-size: 14px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
+.Categoryformat2{
+    width:70%;
+    height: auto;
+    left:9%;
+    display:inline-block;
+    position: relative;
+    padding: 0px 0px 20px 0px;
+}
+.rowcategory2{
+    width: 100%;
+    height: 30px;
+    margin: 10px;
+    display: flex;
+}
+.box1{
+    width: 64px;
+    height: 32px;
+    border-radius: 6px;
+    position: relative;
+    border: 1px solid #F40F6F;
+    vertical-align: middle;
+    background: #FFF;
+    margin:5px 5px 5px 0px;
+    display: inline-block;
+
+}
+.box1write{
+position:absolute;
+background: #FFF;
+color: #F40F6F;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 7px 10px 10px 13px;
+}
+.box2{
+    width: 64px;
+    height: 32px;
+    position: relative;
+    border-radius: 6px;
+border: 0.3px solid rgba(0, 0, 0, 0.25);
+background: #FFF;
+margin:5px 5px 5px 0px;
+display:inline-block;
+
+
+}
+.box2write{
+    position:absolute;
+  
+background: #FFF;
+color: #000;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+opacity: 0.800000011920929;
+margin: 7px 10px 10px 13px;
+
+}
+.lineprice{
+    margin-top: 10px;
+    position:absolute;
+    width: 100%;
+height: 2px;
+}
+.lineprice2{
+    margin-top: 10px;
+    position:absolute;
+    width: 50%;
+height: 4px;
+}
+.priceellipse1{
+    margin-top: 1%;
+
+    width: 16px; height: 16px; position: absolute;background: #F40F6F; border-radius: 9999px;
+}
+.priceellipse2{
+    margin-top: 1%;
+    margin-left: 44%;
+    width: 16px; height: 16px; position: absolute;background: #F40F6F; border-radius: 9999px;
+}
+
+.rowcategory1{
+    width: 235px;
+    height: 16px;
+    margin-top: 10px;
+}
+.pricevalue{
+    color: rgba(0, 0, 0, 0.80);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.pricevalue2{
+margin-left: 5px;
+margin-right: 40px;
+color: #000;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.taka{
+width: 7px;
+height: 9.333px;
+display: inline-block;
+margin-bottom: 5px;
+margin-right: 2px;
+}
+.categoryrectangle{
+    width: 70%;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F40F6F;
+    left:9%;
+    position: relative;
+
+}
+.allreset{
+    color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding: 5% 0% 0% 36%;
+}
+.load{
+    margin-bottom: 2%;
+    margin-left: 58%;
+    margin-right: 30%;
+
+}
+.loadmorebox{
+    width: 216px;
+height: 42px;
+flex-shrink: 0;
+border-radius: 4px;
+border: 1px solid #913BDB;
+padding: 6% 0% 5% 0%;
+
+}
+.loadmore{
+    color: #913BDB;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+
+}
+.myfooter{
+    width: 100%;
+    height: auto;
+    background: #361354;
+    position: absolute;
+
+}
+.contentrow{
+    width: 100%;
+    height: auto;
+    background: #361354;
+    position: relative;
+    display: flex;
+
+}
+.rowfooter1{
+    width:25%;
+    padding: 30px 10px 10px 30px;
+    height: auto;
+  
+    display: flex;
+}
+.footerhead1image{
+    width: 80%; height:auto; position: relative;
+}
+.footerImage77{
+    width: 57px; height: 42px;position: relative;
+   
+}
+.footerLogo{
+    width: 80%; height: auto;position: relative;
+}
+.footerEuphoria{
+position: relative;
+width: 40%;
+height: auto;
+margin-top: 1%;
+left: -8px;
+}
+.footerVectorline{
+    width: 9%; height:auto; border: 0.1px white solid;
+    position: relative;
+    top:-11px;
+    left: 28%;
+}
+.footerGroupline{
+    width: 15%; height:auto; left:32%; top:-22px; position: relative;
+}
+.footerVectorline2{
+    width: 14%; height: auto; left:33%;top:-13px;position: relative; border: 0.1px white solid;
+}
+.contactbox1{
+display: flex;
+}
+.contactimage{
+margin: 0% 2% 0% 0%;
+width: 8%;
+height: 8%;
+}
+.contacttext{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.join{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.socialmedia{
+    display: flex;
+}
+.backgroundbox{
+    width: 40px;
+height: 40px;
+border-radius: 6px;
+background: #FFF1F4;
+margin-right: 16px;
+
+}
+.joinlogo{
+    margin: 20% 20% 20% 20%;
+
+}
+.rowfooter2{
+    width:25%;
+    padding: 2% 2% 2% 10%;
+    height: auto;
+    display: inline-block;
+}
+.headline{
+    color: #F40F6F;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 32px;
+display: inline-block;
+position: relative;
+
+}
+.topic{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display:inline-block;
+position: relative;
+
+}
+
+.barline{
+    margin-bottom: 2%;
+width: 100%;
+height: 1%;
+color:white;
+}
+.copyright{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.60);
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+@media only screen and (max-width: 1200px) {
+    .head1 {
+      height: 180px;
+    }
+    .Rectanglesearch{
+        top:50%;
+        left: 5%;
+    }
+    .Group4{
+        top:55%;
+        left:36%;
+    }
+    .Account{
+font-size: 10px;
+top: 10%;
+left: 60%;
+    }
+    .Cart0{
+        font-size: 10px;
+        left: 60%;
+    }
+    .Rectangle3-1{
+        top:50%;
+        left:65%;
+        width: 10%;
+    }
+    .Group1{
+        top:50%;
+        left:65%;
+    }
+
+
+    .Line1{
+        left:60%;
+        top:55%
+    }
+    .Rectangle7{
+        width: 50px; 
+
+    }
+    .Rectangle8{
+        width:55px;  
+
+    }
+    .Rectangle9{
+        width:40px;   
+        
+    }
+    .Offers{
+        font-size: 8px;
+        left: 10%;
+    }
+    .Campaign{
+        font-size: 8px;
+        left: 10%;
+    }
+    .SellerPicks{
+        font-size: 8px;
+        left: 10%;
+    }
+    .Categoryrectangle{
+        width:30% ;
+        font-size: 6px;
+    }
+    .SearchForProducts{
+        font-size: 8px;
+        left:15%;
+        top:40%
+    }
+    .sortsection{
+        margin-left: 70%;
+    }
+    .SkinCareProducts{
+        font-size: 18px;
+        top:25%
+    }
+
+  }
